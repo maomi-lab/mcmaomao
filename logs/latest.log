@@ -142,3 +142,8 @@
 [10:33:26] [Server thread/INFO]: /stop
 [10:33:26] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
 [10:33:49] [Server thread/INFO]: Saving is already turned on
+[11:35:35] [User Authenticator #1/INFO]: UUID of player 011_qq is 62725661-aa8b-4e40-ad44-493d264f98a5
+[11:35:35] [Server thread/INFO]: 011_qq[/223.139.254.134:48570] logged in with entity id 134 at (96.5, 72.0, 226.5)
+[11:35:35] [Server thread/INFO]: 011_qq joined the game
+[11:38:26] [Server thread/INFO]: 011_qq lost connection: Disconnected
+[11:38:26] [Server thread/INFO]: 011_qq left the game
