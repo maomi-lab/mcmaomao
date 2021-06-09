@@ -1,2 +1,2 @@
-# mcmaomao
-待建置
+# 貓貓伺服器
+IP: mcmaomao.tk
