@@ -1,178 +1,214 @@
-[10:25:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:25:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:25:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:25:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:25:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:25:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:25:46] [main/INFO]: Reloading ResourceManager: Default, 洞穴與山崖 PartII.zip
-[10:25:47] [Worker-Main-4/INFO]: Loaded 7 recipes
-[10:25:48] [Worker-Main-4/INFO]: Loaded 1138 advancements
-[10:25:50] [Server thread/INFO]: Starting minecraft server version 1.17
-[10:25:50] [Server thread/INFO]: Loading properties
-[10:25:50] [Server thread/INFO]: Default game type: SURVIVAL
-[10:25:50] [Server thread/INFO]: Generating keypair
-[10:25:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:25:51] [Server thread/INFO]: Using epoll channel type
-[10:25:51] [Server thread/INFO]: Preparing level "world"
-[10:25:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:25:58] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[10:25:58] [Worker-Main-4/INFO]: Preparing spawn area: 2%
-[10:25:59] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[10:25:59] [Worker-Main-6/INFO]: Preparing spawn area: 23%
-[10:26:00] [Worker-Main-4/INFO]: Preparing spawn area: 55%
-[10:26:00] [Worker-Main-6/INFO]: Preparing spawn area: 68%
-[10:26:01] [Worker-Main-4/INFO]: Preparing spawn area: 68%
-[10:26:01] [Worker-Main-6/INFO]: Preparing spawn area: 68%
-[10:26:02] [Worker-Main-6/INFO]: Preparing spawn area: 68%
-[10:26:02] [Worker-Main-4/INFO]: Preparing spawn area: 68%
-[10:26:03] [Worker-Main-5/INFO]: Preparing spawn area: 69%
-[10:26:03] [Worker-Main-4/INFO]: Preparing spawn area: 71%
-[10:26:04] [Worker-Main-4/INFO]: Preparing spawn area: 71%
-[10:26:04] [Worker-Main-6/INFO]: Preparing spawn area: 73%
-[10:26:05] [Worker-Main-5/INFO]: Preparing spawn area: 73%
-[10:26:05] [Worker-Main-5/INFO]: Preparing spawn area: 75%
-[10:26:06] [Worker-Main-6/INFO]: Preparing spawn area: 78%
-[10:26:06] [Worker-Main-5/INFO]: Preparing spawn area: 79%
-[10:26:07] [Worker-Main-5/INFO]: Preparing spawn area: 82%
-[10:26:07] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[10:26:08] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[10:26:08] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[10:26:09] [Worker-Main-6/INFO]: Preparing spawn area: 84%
-[10:26:09] [Worker-Main-5/INFO]: Preparing spawn area: 86%
-[10:26:10] [Worker-Main-5/INFO]: Preparing spawn area: 86%
-[10:26:10] [Worker-Main-4/INFO]: Preparing spawn area: 86%
-[10:26:11] [Worker-Main-6/INFO]: Preparing spawn area: 87%
-[10:26:11] [Worker-Main-6/INFO]: Preparing spawn area: 87%
-[10:26:12] [Worker-Main-4/INFO]: Preparing spawn area: 88%
-[10:26:12] [Worker-Main-6/INFO]: Preparing spawn area: 90%
-[10:26:13] [Worker-Main-6/INFO]: Preparing spawn area: 91%
-[10:26:13] [Worker-Main-6/INFO]: Preparing spawn area: 93%
-[10:26:14] [Worker-Main-6/INFO]: Preparing spawn area: 94%
-[10:26:14] [Worker-Main-4/INFO]: Preparing spawn area: 95%
-[10:26:15] [Worker-Main-4/INFO]: Preparing spawn area: 96%
-[10:26:15] [Worker-Main-4/INFO]: Preparing spawn area: 99%
-[10:26:15] [Server thread/INFO]: Time elapsed: 24156 ms
-[10:26:15] [Server thread/INFO]: Done (24.331s)! For help, type "help"
-[10:33:23] [Server thread/INFO]: [Server] test
-[10:33:26] [Server thread/INFO]: /advancement (grant|revoke)
-[10:33:26] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[10:33:26] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
-[10:33:26] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[10:33:26] [Server thread/INFO]: /clear [<targets>]
-[10:33:26] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
-[10:33:26] [Server thread/INFO]: /data (merge|get|remove|modify)
-[10:33:26] [Server thread/INFO]: /datapack (enable|disable|list)
-[10:33:26] [Server thread/INFO]: /debug (start|stop|function)
-[10:33:26] [Server thread/INFO]: /defaultgamemode (survival|creative|adventure|spectator)
-[10:33:26] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[10:33:26] [Server thread/INFO]: /effect (clear|give)
-[10:33:26] [Server thread/INFO]: /me <action>
-[10:33:26] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[10:33:26] [Server thread/INFO]: /experience (add|set|query)
-[10:33:26] [Server thread/INFO]: /xp -> experience
-[10:33:26] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[10:33:26] [Server thread/INFO]: /forceload (add|remove|query)
-[10:33:26] [Server thread/INFO]: /function <name>
-[10:33:26] [Server thread/INFO]: /gamemode (survival|creative|adventure|spectator)
-[10:33:26] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
-[10:33:26] [Server thread/INFO]: /give <targets> <item> [<count>]
-[10:33:26] [Server thread/INFO]: /help [<command>]
-[10:33:26] [Server thread/INFO]: /item (replace|modify)
-[10:33:26] [Server thread/INFO]: /kick <targets> [<reason>]
-[10:33:26] [Server thread/INFO]: /kill [<targets>]
-[10:33:26] [Server thread/INFO]: /list [uuids]
-[10:33:26] [Server thread/INFO]: /locate (pillager_outpost|mineshaft|mansion|jungle_pyramid|desert_pyramid|igloo|ruined_portal|shipwreck|swamp_hut|stronghold|monument|ocean_ruin|fortress|endcity|buried_treasure|village|nether_fossil|bastion_remnant)
-[10:33:26] [Server thread/INFO]: /locatebiome <biome>
-[10:33:26] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[10:33:26] [Server thread/INFO]: /msg <targets> <message>
-[10:33:26] [Server thread/INFO]: /tell -> msg
-[10:33:26] [Server thread/INFO]: /w -> msg
-[10:33:26] [Server thread/INFO]: /particle <name> [<pos>]
-[10:33:26] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[10:33:26] [Server thread/INFO]: /reload
-[10:33:26] [Server thread/INFO]: /recipe (give|take)
-[10:33:26] [Server thread/INFO]: /say <message>
-[10:33:26] [Server thread/INFO]: /schedule (function|clear)
-[10:33:26] [Server thread/INFO]: /scoreboard (objectives|players)
-[10:33:26] [Server thread/INFO]: /seed
-[10:33:26] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[10:33:26] [Server thread/INFO]: /spawnpoint [<targets>]
-[10:33:26] [Server thread/INFO]: /setworldspawn [<pos>]
-[10:33:26] [Server thread/INFO]: /spectate [<target>]
-[10:33:26] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[10:33:26] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[10:33:26] [Server thread/INFO]: /summon <entity> [<pos>]
-[10:33:26] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[10:33:26] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[10:33:26] [Server thread/INFO]: /teammsg <message>
-[10:33:26] [Server thread/INFO]: /tm -> teammsg
-[10:33:26] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[10:33:26] [Server thread/INFO]: /tp -> teleport
-[10:33:26] [Server thread/INFO]: /tellraw <targets> <message>
-[10:33:26] [Server thread/INFO]: /time (set|add|query)
-[10:33:26] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[10:33:26] [Server thread/INFO]: /trigger <objective> [add|set]
-[10:33:26] [Server thread/INFO]: /weather (clear|rain|thunder)
-[10:33:26] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[10:33:26] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[10:33:26] [Server thread/INFO]: /banlist [ips|players]
-[10:33:26] [Server thread/INFO]: /ban <targets> [<reason>]
-[10:33:26] [Server thread/INFO]: /deop <targets>
-[10:33:26] [Server thread/INFO]: /op <targets>
-[10:33:26] [Server thread/INFO]: /pardon <targets>
-[10:33:26] [Server thread/INFO]: /pardon-ip <target>
-[10:33:26] [Server thread/INFO]: /perf (start|stop)
-[10:33:26] [Server thread/INFO]: /save-all [flush]
-[10:33:26] [Server thread/INFO]: /save-off
-[10:33:26] [Server thread/INFO]: /save-on
-[10:33:26] [Server thread/INFO]: /setidletimeout <minutes>
-[10:33:26] [Server thread/INFO]: /stop
-[10:33:26] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[10:33:49] [Server thread/INFO]: Saving is already turned on
-[11:35:35] [User Authenticator #1/INFO]: UUID of player 011_qq is 62725661-aa8b-4e40-ad44-493d264f98a5
-[11:35:35] [Server thread/INFO]: 011_qq[/223.139.254.134:48570] logged in with entity id 134 at (96.5, 72.0, 226.5)
-[11:35:35] [Server thread/INFO]: 011_qq joined the game
-[11:38:26] [Server thread/INFO]: 011_qq lost connection: Disconnected
-[11:38:26] [Server thread/INFO]: 011_qq left the game
-[11:46:55] [User Authenticator #2/INFO]: UUID of player sudust123456789 is 2d481437-e19a-411d-9350-0f7e9ac20b63
-[11:46:55] [Server thread/INFO]: sudust123456789[/219.69.65.63:64063] logged in with entity id 422 at (93.5, 68.0, 229.5)
-[11:46:55] [Server thread/INFO]: sudust123456789 joined the game
-[11:51:32] [Server thread/INFO]: sudust123456789 has made the advancement [Stone Age]
-[11:53:04] [Server thread/INFO]: sudust123456789 has made the advancement [Getting an Upgrade]
-[11:58:48] [Server thread/INFO]: sudust123456789 has made the advancement [Acquire Hardware]
-[12:00:23] [Server thread/INFO]: sudust123456789 has made the advancement [Isn't It Iron Pick]
-[12:01:57] [Server thread/INFO]: sudust123456789 has made the advancement [Monster Hunter]
-[12:02:28] [Server thread/INFO]: sudust123456789 was slain by Zombie
-[12:03:25] [Server thread/INFO]: sudust123456789 was shot by Skeleton
-[12:04:05] [Server thread/INFO]: sudust123456789 was slain by Zombie
-[12:04:27] [Server thread/INFO]: sudust123456789 lost connection: Disconnected
-[12:04:27] [Server thread/INFO]: sudust123456789 left the game
-[12:08:52] [User Authenticator #3/INFO]: UUID of player 011_qq is 62725661-aa8b-4e40-ad44-493d264f98a5
-[12:08:52] [Server thread/INFO]: 011_qq[/223.139.254.134:46616] logged in with entity id 2305 at (124.43433570021419, 79.0, 273.6051875969674)
-[12:08:52] [Server thread/INFO]: 011_qq joined the game
-[12:10:21] [Server thread/INFO]: 011_qq fell from a high place
-[12:11:10] [Server thread/INFO]: 011_qq was blown up by Creeper
-[12:11:58] [Server thread/INFO]: 011_qq has made the advancement [Isn't It Iron Pick]
-[12:12:00] [Server thread/INFO]: 011_qq has made the advancement [Acquire Hardware]
-[12:12:23] [Server thread/INFO]: 011_qq has made the advancement [Stone Age]
-[12:12:43] [Server thread/INFO]: 011_qq has made the advancement [Monster Hunter]
-[12:12:58] [Server thread/INFO]: 011_qq lost connection: Disconnected
-[12:12:58] [Server thread/INFO]: 011_qq left the game
-[12:18:58] [User Authenticator #4/INFO]: UUID of player BBM_asli123 is 698ae07e-5a5d-48c8-8a20-b2b10f30b962
-[12:18:59] [Server thread/INFO]: BBM_asli123[/223.139.203.48:37585] logged in with entity id 2914 at (92.5, 68.0, 222.5)
-[12:18:59] [Server thread/INFO]: BBM_asli123 joined the game
-[12:20:00] [Server thread/INFO]: BBM_asli123 lost connection: Disconnected
-[12:20:00] [Server thread/INFO]: BBM_asli123 left the game
+[00:13:39] [Server thread/INFO]: sudust123456789 was blown up by Creeper
+[00:13:57] [Server thread/INFO]: sudust123456789 was killed by Witch using magic
+[00:14:14] [Server thread/INFO]: sudust123456789 was killed by Witch using magic
+[00:14:34] [Server thread/INFO]: sudust123456789 was shot by Skeleton
+[00:14:50] [Server thread/INFO]: sudust123456789 was shot by Skeleton
+[00:15:21] [Server thread/INFO]: sudust123456789 was shot by Skeleton
+[00:22:15] [Server thread/INFO]: sudust123456789 has made the advancement [Not Today, Thank You]
+[00:22:25] [Server thread/INFO]: sudust123456789 was slain by Zombie
+[00:22:43] [Server thread/INFO]: sudust123456789 was slain by Zombie
+[00:32:20] [Server thread/INFO]: sudust123456789 has made the advancement [Suit Up]
+[01:31:58] [Server thread/INFO]: sudust123456789 lost connection: Disconnected
+[01:31:58] [Server thread/INFO]: sudust123456789 left the game
+[03:05:11] [User Authenticator #2/INFO]: UUID of player 011_qq is 62725661-aa8b-4e40-ad44-493d264f98a5
+[03:05:11] [Server thread/INFO]: 011_qq[/223.139.254.134:46988] logged in with entity id 23461 at (162.6530684655759, 31.0, 216.2329027779817)
+[03:05:11] [Server thread/INFO]: 011_qq joined the game
+[03:05:38] [Server thread/INFO]: [011_qq: Set own game mode to Spectator Mode]
+[03:06:20] [Server thread/INFO]: [011_qq: Set own game mode to Creative Mode]
+[03:08:17] [Server thread/INFO]: [011_qq: Set own game mode to Spectator Mode]
+[03:09:23] [Server thread/INFO]: [011_qq: Set own game mode to Creative Mode]
+[03:09:36] [Server thread/INFO]: 011_qq fell out of the world
+[03:09:45] [Server thread/INFO]: [011_qq: Set own game mode to Spectator Mode]
+[03:10:57] [Server thread/INFO]: [011_qq: Set own game mode to Creative Mode]
+[03:11:09] [Server thread/INFO]: [011_qq: Set own game mode to Spectator Mode]
+[03:11:25] [Server thread/INFO]: [011_qq: Set own game mode to Creative Mode]
+[03:14:51] [Server thread/INFO]: 011_qq lost connection: Disconnected
+[03:14:51] [Server thread/INFO]: 011_qq left the game
+[05:35:26] [Server thread/INFO]: There are 0 of a max of 10 players online: 
+[05:37:57] [Server thread/INFO]: Nothing changed. The player already is an operator
+[05:39:06] [User Authenticator #3/INFO]: UUID of player open3 is 62587ee7-b526-4dba-8210-0964bbd1457a
+[05:39:06] [Server thread/INFO]: open3[/36.239.160.232:61326] logged in with entity id 24993 at (92.5, 68.0, 226.5)
+[05:39:06] [Server thread/INFO]: open3 joined the game
+[05:39:55] [Server thread/INFO]: [open3: Set own game mode to Spectator Mode]
+[05:40:38] [Server thread/INFO]: [open3: Set own game mode to Survival Mode]
+[05:40:41] [Server thread/INFO]: [open3: Set the world spawn point to -82, 80, 466 [0.0]]
+[05:40:45] [Server thread/INFO]: [open3: Set own game mode to Creative Mode]
+[05:42:21] [Server thread/INFO]: [open3: Set own game mode to Spectator Mode]
+[05:42:38] [Server thread/INFO]: [open3: Set own game mode to Creative Mode]
+[05:43:47] [Server thread/INFO]: open3 fell out of the world
+[05:43:48] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "â˜ƒ" is null
+	at abk.b(SourceFile:202) ~[server.jar:?]
+	at abe.a(SourceFile:906) ~[server.jar:?]
+	at abp.a(SourceFile:449) ~[server.jar:?]
+	at acj.a(SourceFile:944) ~[server.jar:?]
+	at uf.a(SourceFile:114) ~[server.jar:?]
+	at uf$a.a(SourceFile:42) ~[server.jar:?]
+	at pm.a(SourceFile:21) ~[server.jar:?]
+	at xm.run(SourceFile:18) ~[server.jar:?]
+	at aqu.c(SourceFile:151) ~[server.jar:?]
+	at aqy.c(SourceFile:23) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:783) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:167) ~[server.jar:?]
+	at aqu.z(SourceFile:125) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.bg(SourceFile:765) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.z(SourceFile:759) ~[server.jar:?]
+	at aqu.bq(SourceFile:110) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:743) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:696) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:274) ~[server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+[05:43:57] [Server thread/INFO]: open3 lost connection: Disconnected
+[05:43:57] [Server thread/INFO]: open3 left the game
+[05:51:11] [User Authenticator #4/INFO]: UUID of player open3 is 62587ee7-b526-4dba-8210-0964bbd1457a
+[05:51:11] [Server thread/INFO]: open3[/36.239.160.232:63200] logged in with entity id 26270 at (-101.80935310720172, 79.0, 465.78760382138404)
+[05:51:11] [Server thread/INFO]: open3 joined the game
+[05:51:51] [Server thread/INFO]: open3 lost connection: Disconnected
+[05:51:51] [Server thread/INFO]: open3 left the game
+[05:52:44] [User Authenticator #5/INFO]: UUID of player 011_qq is 62725661-aa8b-4e40-ad44-493d264f98a5
+[05:52:44] [Server thread/INFO]: 011_qq[/223.139.254.134:45667] logged in with entity id 26343 at (-85.87076685565339, -55.0, 231.48668209342338)
+[05:52:44] [Server thread/INFO]: 011_qq joined the game
+[05:53:10] [Server thread/INFO]: 011_qq lost connection: Disconnected
+[05:53:10] [Server thread/INFO]: 011_qq left the game
+[05:58:09] [User Authenticator #6/INFO]: UUID of player open3 is 62587ee7-b526-4dba-8210-0964bbd1457a
+[05:58:10] [Server thread/INFO]: open3[/36.239.160.232:63569] logged in with entity id 26514 at (-101.80935310720172, 79.0, 465.78760382138404)
+[05:58:10] [Server thread/INFO]: open3 joined the game
+[05:59:02] [Server thread/INFO]: open3 lost connection: Disconnected
+[05:59:02] [Server thread/INFO]: open3 left the game
+[06:14:47] [User Authenticator #7/INFO]: UUID of player 011_qq is 62725661-aa8b-4e40-ad44-493d264f98a5
+[06:14:47] [Server thread/INFO]: 011_qq[/223.139.254.134:45953] logged in with entity id 26708 at (-80.69999998807907, -28.450861454779975, 218.94704047708464)
+[06:14:47] [Server thread/INFO]: 011_qq joined the game
+[06:15:43] [Server thread/INFO]: 011_qq lost connection: Disconnected
+[06:15:43] [Server thread/INFO]: 011_qq left the game
+[06:19:51] [User Authenticator #8/INFO]: UUID of player shoi_kai is 7943ca40-9604-4849-92a1-188233a6f03b
+[06:19:51] [Server thread/INFO]: shoi_kai[/1.175.153.190:63542] logged in with entity id 27169 at (-82.5, 84.0, 456.5)
+[06:19:51] [Server thread/INFO]: shoi_kai joined the game
+[06:20:22] [User Authenticator #9/INFO]: UUID of player BBM_asli123 is 698ae07e-5a5d-48c8-8a20-b2b10f30b962
+[06:20:22] [Server thread/INFO]: BBM_asli123[/223.139.203.48:37640] logged in with entity id 27324 at (92.30000001192093, 68.0, 229.69999998807907)
+[06:20:22] [Server thread/INFO]: BBM_asli123 joined the game
+[06:21:54] [Server thread/INFO]: <BBM_asli123> 你有OP嗎
+[06:26:25] [Server thread/INFO]: BBM_asli123 was blown up by Creeper
+[06:27:09] [Server thread/INFO]: shoi_kai was slain by Zombie
+[06:31:55] [Server thread/INFO]: <shoi_kai> 沒
+[06:32:08] [Server thread/INFO]: <BBM_asli123> Where
+[06:32:15] [Server thread/INFO]: shoi_kai was slain by Zombie
+[06:32:22] [Server thread/INFO]: <BBM_asli123> are you
+[06:33:08] [Server thread/INFO]: BBM_asli123 lost connection: Disconnected
+[06:33:08] [Server thread/INFO]: BBM_asli123 left the game
+[06:36:35] [User Authenticator #10/INFO]: UUID of player 011_qq is 62725661-aa8b-4e40-ad44-493d264f98a5
+[06:36:35] [Server thread/INFO]: 011_qq[/223.139.254.134:46677] logged in with entity id 30467 at (-78.50547168455884, -1.7999999523162842, 378.6414768568524)
+[06:36:35] [Server thread/INFO]: 011_qq joined the game
+[06:36:51] [Server thread/INFO]: [011_qq: Set own game mode to Spectator Mode]
+[06:36:54] [Server thread/INFO]: [011_qq: Teleported 011_qq to shoi_kai]
+[06:37:02] [Server thread/INFO]: [011_qq: Teleported 011_qq to shoi_kai]
+[06:37:08] [Server thread/INFO]: [011_qq: Made shoi_kai a server operator]
+[06:37:11] [Server thread/INFO]: <011_qq> 尼哥
+[06:37:21] [Server thread/INFO]: [011_qq: Made BBM_asli123 a server operator]
+[06:37:26] [Server thread/INFO]: [011_qq: Made Dream a server operator]
+[06:38:06] [Server thread/INFO]: [011_qq: Teleported 011_qq to shoi_kai]
+[06:38:18] [Server thread/INFO]: 011_qq lost connection: Disconnected
+[06:38:18] [Server thread/INFO]: 011_qq left the game
+[06:58:10] [User Authenticator #11/INFO]: UUID of player 011_qq is 62725661-aa8b-4e40-ad44-493d264f98a5
+[06:58:10] [Server thread/INFO]: 011_qq[/223.139.254.134:49005] logged in with entity id 30740 at (-72.33169374922093, 82.8697721687211, 462.91005434695944)
+[06:58:11] [Server thread/INFO]: 011_qq joined the game
+[06:58:19] [Server thread/INFO]: [011_qq: Teleported 011_qq to shoi_kai]
+[06:58:28] [Server thread/INFO]: [011_qq: Teleported shoi_kai to 011_qq]
+[06:58:28] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "â˜ƒ" is null
+	at abk.b(SourceFile:202) ~[server.jar:?]
+	at abe.a(SourceFile:906) ~[server.jar:?]
+	at abp.a(SourceFile:449) ~[server.jar:?]
+	at acj.a(SourceFile:944) ~[server.jar:?]
+	at uf.a(SourceFile:114) ~[server.jar:?]
+	at uf$b.a(SourceFile:16) ~[server.jar:?]
+	at pm.a(SourceFile:21) ~[server.jar:?]
+	at xm.run(SourceFile:18) ~[server.jar:?]
+	at aqu.c(SourceFile:151) ~[server.jar:?]
+	at aqy.c(SourceFile:23) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:783) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:167) ~[server.jar:?]
+	at aqu.z(SourceFile:125) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.bg(SourceFile:765) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.z(SourceFile:759) ~[server.jar:?]
+	at aqu.bq(SourceFile:110) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:743) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:696) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:274) ~[server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+[06:58:47] [User Authenticator #12/INFO]: UUID of player ERIC__LAI is 56b8d573-63b8-4350-816d-b5f84c14bbc8
+[06:58:47] [Server thread/INFO]: ERIC__LAI[/61.61.93.191:57286] logged in with entity id 30786 at (-84.5, 82.0, 462.5)
+[06:58:47] [Server thread/INFO]: ERIC__LAI joined the game
+[06:59:03] [Server thread/INFO]: [011_qq: Set own game mode to Creative Mode]
+[07:00:13] [Server thread/INFO]: [011_qq: Made ERIC__LAI a server operator]
+[07:00:15] [Server thread/INFO]: ERIC__LAI has made the advancement [Stone Age]
+[07:00:17] [Server thread/INFO]: [011_qq: Teleported 011_qq to ERIC__LAI]
+[07:00:39] [Server thread/INFO]: <ERIC__LAI> 生存！
+[07:01:04] [Server thread/INFO]: <011_qq> 這是另一個地圖
+[07:01:21] [Server thread/INFO]: ERIC__LAI has made the advancement [Getting an Upgrade]
+[07:01:25] [Server thread/INFO]: 011_qq has made the advancement [Getting an Upgrade]
+[07:01:42] [Server thread/INFO]: [011_qq: Set own game mode to Survival Mode]
+[07:01:45] [Server thread/INFO]: <011_qq> 完美
+[07:01:54] [Server thread/INFO]: <011_qq> 賴
+[07:02:02] [Server thread/INFO]: <011_qq> 還是你要跟我去別福探險
+[07:02:15] [Server thread/INFO]: <ERIC__LAI> 晚點
+[07:03:15] [Server thread/INFO]: [011_qq: Teleported 011_qq to ERIC__LAI]
+[07:03:19] [Server thread/INFO]: <011_qq> 幹
+[07:03:36] [Server thread/INFO]: <011_qq> 我血量超少
+[07:04:02] [User Authenticator #13/INFO]: UUID of player BBM_asli123 is 698ae07e-5a5d-48c8-8a20-b2b10f30b962
+[07:04:02] [Server thread/INFO]: BBM_asli123[/223.139.203.48:40346] logged in with entity id 31836 at (17.199745482589755, 90.0, 564.9816933572106)
+[07:04:02] [Server thread/INFO]: BBM_asli123 joined the game
+[07:04:26] [Server thread/INFO]: <BBM_asli123> ?
+[07:04:52] [Server thread/INFO]: [011_qq: Created new objective [HP]]
+[07:05:00] [Server thread/INFO]: <011_qq> 靠北
+[07:05:05] [Server thread/INFO]: <BBM_asli123> 超威
+[07:05:24] [Server thread/INFO]: [011_qq: Set display slot list to show objective HP]
+[07:05:59] [Server thread/INFO]: ERIC__LAI has made the advancement [Monster Hunter]
+[07:06:12] [Server thread/INFO]: <BBM_asli123> ?
+[07:06:24] [Server thread/INFO]: <011_qq> 生存阿\
+[07:06:26] [Server thread/INFO]: [BBM_asli123: Teleported BBM_asli123 to 011_qq]
+[07:06:50] [Server thread/INFO]: BBM_asli123 was shot by Skeleton
+[07:07:15] [Server thread/INFO]: [BBM_asli123: Teleported BBM_asli123 to ERIC__LAI]
+[07:07:15] [Server thread/WARN]: BBM_asli123 moved too quickly! 15.76394789580074,-20.0,19.953139921244485
+[07:07:19] [Server thread/INFO]: 011_qq was shot by Skeleton
+[07:07:25] [Server thread/INFO]: [BBM_asli123: Teleported BBM_asli123 to shoi_kai]
+[07:07:25] [Server thread/INFO]: [011_qq: Set own game mode to Spectator Mode]
+[07:07:40] [Server thread/INFO]: [011_qq: Set own game mode to Creative Mode]
+[07:08:09] [Server thread/INFO]: [011_qq: Set own game mode to Spectator Mode]
+[07:08:13] [Server thread/INFO]: [011_qq: Set own game mode to Survival Mode]
+[07:08:48] [Server thread/INFO]: [011_qq: Teleported 011_qq to ERIC__LAI]
+[07:09:06] [Server thread/INFO]: <011_qq> 賴
+[07:09:07] [Server thread/INFO]: BBM_asli123 has made the advancement [Stone Age]
+[07:09:54] [Server thread/INFO]: BBM_asli123 has made the advancement [Getting an Upgrade]
+[07:10:26] [Server thread/INFO]: BBM_asli123 fell from a high place
+[07:10:57] [Server thread/INFO]: [BBM_asli123: Teleported BBM_asli123 to 011_qq]
+[07:10:58] [Server thread/INFO]: 011_qq lost connection: Disconnected
+[07:10:58] [Server thread/INFO]: 011_qq left the game
+[07:11:01] [User Authenticator #14/INFO]: UUID of player 011_qq is 62725661-aa8b-4e40-ad44-493d264f98a5
+[07:11:01] [Server thread/INFO]: 011_qq[/223.139.254.134:48466] logged in with entity id 33346 at (-113.91557518730856, -1.1102230246251565E-16, 537.8595458261593)
+[07:11:01] [Server thread/INFO]: 011_qq joined the game
+[07:11:04] [Server thread/INFO]: <BBM_asli123> ?
+[07:11:20] [Server thread/INFO]: ERIC__LAI was shot by Skeleton
+[07:11:52] [Server thread/INFO]: <BBM_asli123> 擬由煤炭嗎
+[07:12:10] [Server thread/INFO]: 011_qq lost connection: Disconnected
+[07:12:10] [Server thread/INFO]: 011_qq left the game
+[07:12:31] [Server thread/INFO]: BBM_asli123 has made the advancement [Monster Hunter]
+[07:13:08] [Server thread/INFO]: [BBM_asli123: Set own game mode to Creative Mode]
+[07:13:18] [Server thread/INFO]: [BBM_asli123: Set own game mode to Spectator Mode]
+[07:13:55] [Server thread/INFO]: [BBM_asli123: Set own game mode to Survival Mode]
+[07:13:59] [Server thread/INFO]: [BBM_asli123: Set own game mode to Creative Mode]
+[07:14:25] [Server thread/INFO]: [BBM_asli123: Set own game mode to Spectator Mode]
+[07:14:36] [Server thread/INFO]: [BBM_asli123: Teleported BBM_asli123 to BBM_asli123]
+[07:14:42] [Server thread/INFO]: [BBM_asli123: Teleported BBM_asli123 to shoi_kai]
+[07:14:51] [Server thread/INFO]: [BBM_asli123: Teleported BBM_asli123 to ERIC__LAI]
+[07:15:36] [Server thread/INFO]: [BBM_asli123: Set own game mode to Survival Mode]
+[07:15:43] [Server thread/INFO]: [BBM_asli123: Set own game mode to Creative Mode]
+[07:15:51] [Server thread/INFO]: [BBM_asli123: Set own game mode to Survival Mode]
+[07:17:14] [Server thread/INFO]: BBM_asli123 was slain by Cave Spider
+[07:17:23] [Server thread/INFO]: [BBM_asli123: Set own game mode to Spectator Mode]
+[07:18:17] [Server thread/INFO]: [BBM_asli123: Set own game mode to Creative Mode]
+[07:18:54] [Server thread/INFO]: BBM_asli123 has made the advancement [Isn't It Iron Pick]
+[07:21:02] [Server thread/INFO]: [BBM_asli123: Set own game mode to Spectator Mode]
+[07:21:15] [Server thread/INFO]: [BBM_asli123: Teleported BBM_asli123 to ERIC__LAI]
+[07:21:35] [Server thread/INFO]: [BBM_asli123: Set own game mode to Creative Mode]
+[07:22:24] [Server thread/INFO]: [BBM_asli123: Set own game mode to Survival Mode]
+[07:24:08] [Server thread/INFO]: BBM_asli123 has made the advancement [The Cutest Predator]
